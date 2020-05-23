@@ -1,0 +1,15 @@
+{
+  "name": "math-for-programmers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon --ext md,vue --watch .vuepress --watch . --exec vuepress dev docs",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4",
+    "vuepress": "^1.4.0"
+  }
+}

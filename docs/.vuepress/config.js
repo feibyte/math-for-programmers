@@ -13,6 +13,9 @@ module.exports = {
       }, {
         title: '数的表示',
         path: '/chapter1/number.html',
+      }, {
+        title: '开方计算',
+        path: '/chapter1/sqrt.html',
       }]
     }, {
       title: '算法导论中的数学',

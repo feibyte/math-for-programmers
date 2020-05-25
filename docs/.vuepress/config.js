@@ -4,6 +4,9 @@ module.exports = {
   base: '/math-for-programmers/',
   themeConfig: {
     activeHeaderLinks: false,
+    nav: [
+      { text: 'Github', link: 'https://github.com/fedeoo/math-for-programmers' },
+    ],
     sidebar: [{
       title: '基础',
       path: '/chapter1',

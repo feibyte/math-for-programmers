@@ -5,4 +5,4 @@
 - [数学基础](./fundamental.html)
 - [数的表示](./number.html)
 - [开方计算](./sqrt.html)
-- [斐波那契数列]
+- [斐波那契数列](./fibonacci.html)

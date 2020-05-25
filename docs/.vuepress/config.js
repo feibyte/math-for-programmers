@@ -16,6 +16,9 @@ module.exports = {
       }, {
         title: '开方计算',
         path: '/chapter1/sqrt.html',
+      }, {
+        title: '斐波那契数列',
+        path: '/chapter1/fibonacci.html',
       }]
     }, {
       title: '算法导论中的数学',

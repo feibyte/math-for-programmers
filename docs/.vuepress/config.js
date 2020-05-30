@@ -24,10 +24,11 @@ module.exports = {
         path: '/chapter1/fibonacci.html',
       }]
     }, {
-      title: '算法导论中的数学',
+      title: '算法分析',
       path: '/CLRS/',
       children: [
-        { title: '求和', path: '/CLRS/sum.html' }
+        { title: '求和', path: '/CLRS/sum.html' },
+        { title: '概率分析', path: '/CLRS/probability.html' }
       ]
     }]
   },

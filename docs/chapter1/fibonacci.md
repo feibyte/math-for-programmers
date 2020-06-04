@@ -60,7 +60,7 @@ $b_{n+1} - \frac{1}{\alpha + \beta} = -\frac{\alpha}{\beta}(b_n - \frac{1}{\alph
 
 $b_n - \frac{1}{\alpha + \beta} = {(-\frac{\alpha}{\beta})}^{n - 1}(b_1  - \frac{1}{\alpha + \beta)}$
 
-由于 $b_n = \frac{a_n}{\beta^n}$ 以及 a_1 = 1 得到 $b_1 = \frac{1}{\beta}$
+由于 $b_n = \frac{a_n}{\beta^n}$ 以及 $a_1 = 1$ 得到 $b_1 = \frac{1}{\beta}$
 
 最后，终于求出 $a_n$ 的通项公式
 

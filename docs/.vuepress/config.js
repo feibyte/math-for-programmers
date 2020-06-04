@@ -22,6 +22,9 @@ module.exports = {
       }, {
         title: '斐波那契数列',
         path: '/chapter1/fibonacci.html',
+      }, {
+        title: 'Hashing',
+        path: '/chapter1/hashing.html',
       }]
     }, {
       title: '算法分析',
